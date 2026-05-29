@@ -50,25 +50,34 @@ All sensor fusion, ZUPT (Zero Velocity Update), and drift countermeasures run on
 | LEDs (optional) | GPIO2 (built‑in), GPIO4, GPIO5        |
 
 ### Wiring (I2C & UART)
+
+
 ESP32 MPU6050 / BMP280 / QMC5883L
+
 
 3.3V ──── VCC
 GND ──── GND
 GPIO21 ──── SDA
 GPIO22 ──── SCL
 
+
 ESP32 NEO‑6M
+
 
 GPIO16 ──── TX (GPS -> ESP)
 GPIO17 ──── RX (ESP -> GPS) optional
 GND ──── GND
 3.3V ──── VCC (or 5V if module tolerant)
 
+
 ESP32 Pixhawk (GPS2 port)
+
 
 GPIO33 ──── RX (Pixhawk GPS port)
 GPIO32 ──── TX (optional, not used)
 GND ──── GND
+
+
 
 ## Software Setup
 
