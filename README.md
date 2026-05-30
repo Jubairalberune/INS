@@ -10,13 +10,15 @@
 
 ## 📸 Preview
 
-| Web Dashboard | Live Trail Map | Bump Test |
-|:---:|:---:|:---:|
+
+|:---:|
 | ![SETUP](images/setup.png) |
 | ![Wi-fi](images/wifi.png) |
-| ![Dashboard](images/dashboard.png) | ![Map](images/trail_map.png) | ![Bump](images/bump_test.png) |
-| ![Hardware](images/wiring1.jpeg) | ![Hardware](images/wiring.jpeg) |
-
+| ![Dashboard](images/dashboard.png) | 
+| ![Map](images/trail_map.png) | 
+| ![Bump](images/bump_test.png) |
+| ![Hardware](images/wiring1.jpeg) |
+| ![Hardware](images/wiring.jpeg) |
 
 ---
 
